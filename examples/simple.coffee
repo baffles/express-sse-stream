@@ -5,6 +5,7 @@ Simple demo example that just sends a stream of the current server time.
 express = require 'express'
 app = express()
 
+# would be require 'express-sse-stream' when installed from npm
 {sse} = require '../lib/express-sse-stream'
 
 page = """
