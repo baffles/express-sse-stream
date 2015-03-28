@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/baffles/express-sse-stream.svg?branch=master)](https://travis-ci.org/baffles/express-sse-stream)
+[![npm version](https://badge.fury.io/js/express-sse-stream.svg)](http://badge.fury.io/js/express-sse-stream)
+
 # express-sse-stream
 
 Middleware for express providing writeable SSE streams.
